@@ -1,0 +1,9 @@
+{
+  "name": "climate-change-api",
+  "version": "1.0.0",
+  "description": "simple project for practicing backend and learning how to make an API and publish them to RapidAPI.",
+  "main": "index.js",
+  "repository": "https://github.com/AmitxParmar/Climate-Change-API.git",
+  "author": "AmitxParmar",
+  "license": "MIT"
+}
