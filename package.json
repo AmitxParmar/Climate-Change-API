@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "simple project for practicing backend and learning how to make an API and publish them to RapidAPI.",
   "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "repository": "https://github.com/AmitxParmar/Climate-Change-API.git",
   "author": "AmitxParmar",
   "license": "MIT",
